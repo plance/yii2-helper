@@ -1,0 +1,17 @@
+{
+    "name": "plance/yii2-helper",
+    "description": "Helpers for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","helper"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Pavel"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "plance\\helper\\": ""
+        }
+    }
+}
